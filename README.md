@@ -24,9 +24,10 @@ Clonez ce projet pour commencer:
 ## Première étape
 
 L'objectif de cette première étape est d'utiliser les techniques du test statique pour évaluer la qualité de la classe `URI`:
-    - Réalisez une relecture du code de cette classe et listez les fautes et/ou les mauvaises pratiques que vous rencontrez.
-    - Utilisez des outils d'analyse statique de code (PMD, FindBugs, Checkstyle) pour évaluer le code source de la classe sous test.
-	- Préparez un rapport décrivant les résultats de l'évaluation ainsi que vos propositions d'amélioration de la suite de tests.
+
+- Réalisez une relecture du code de cette classe et listez les fautes et/ou les mauvaises pratiques que vous rencontrez.
+- Utilisez des outils d'analyse statique de code (PMD, FindBugs, Checkstyle) pour évaluer le code source de la classe sous test.
+- Préparez un rapport décrivant les résultats de l'évaluation ainsi que vos propositions d'amélioration de la suite de tests.
 
 
 ## Deuxième étape
