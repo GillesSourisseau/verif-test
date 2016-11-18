@@ -32,19 +32,22 @@ L'objectif de cette première étape est d'utiliser les techniques du test stati
 
 ## Deuxième étape
 L'objectif de cette deuxième étape est d'écrire des test unitaires. Comme vous allez modifier cette classe, vous aurez besoin d'une suite fiable de tests:
-    - Utilisez la technique de test fonctionnel pour proposez des données de test pour les méthodes publiques de la classe `URI`.
-    - Utilisez JUnit ou TestNG pour écrire les tests correspondant aux données de test précédentes.
-    - Utilisez des outils de couverture de code (Emma, Cobertura) et d'analyse de mutation (PIT) pour évaluer la qualité de votre suite de tests
+
+- Utilisez la technique de test fonctionnel pour proposez des données de test pour les méthodes publiques de la classe `URI`.
+- Utilisez JUnit ou TestNG pour écrire les tests correspondant aux données de test précédentes.
+- Utilisez des outils de couverture de code (Emma, Cobertura) et d'analyse de mutation (PIT) pour évaluer la qualité de votre suite de tests
 
 ## Troisième étape
 L'objectif de cette troisième étape est d'améliorer la qualité du code de la classe `URI`:
-    - Utilisez les _refactorings_ pour réaliser les modifications proposées dans la première étape.
-    - Assurez-vous que le comportement de la classe sous test reste le même.
-    - Utilisez les outils d'analyse statique de code pour évaluer à nouveau la classe sous test.
-    - Résumez, dans votre rapport, les résultats de l'analyse statique et des améliorations que vous avez effectuées.
+
+- Utilisez les _refactorings_ pour réaliser les modifications proposées dans la première étape.
+- Assurez-vous que le comportement de la classe sous test reste le même.
+- Utilisez les outils d'analyse statique de code pour évaluer à nouveau la classe sous test.
+- Résumez, dans votre rapport, les résultats de l'analyse statique et des améliorations que vous avez effectuées.
 
 # Travail à rendre
 
 Travail à rendre le 12 décembre 2016:
-    - Le rapport.
-    - Le code de la ou des nouvelles classes.
+
+- Le rapport.
+- Le code de la ou des nouvelles classes.
