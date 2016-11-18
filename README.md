@@ -17,7 +17,9 @@ L'archive \code{.jar} ainsi que les fichiers intermédiaires de compilation (*.c
 # Préparation
 Le code source de la classe `URI` se trouve sur GitLab de l'Université, sur le dépôt suivant:
 [tp-est-uri](https://gitlab.univ-nantes.fr/sunye-g/tp-test-uri). 
-Clonez ce projet pour commencer le projet?.
+Clonez ce projet pour commencer:
+
+    git clone https://gitlab.univ-nantes.fr/sunye-g/tp-test-uri.git
 
 ## Première étape
 
