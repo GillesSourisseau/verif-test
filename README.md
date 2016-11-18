@@ -11,8 +11,11 @@ Il est au coeur de la plateforme Eclipse depuis la version 4.
 # Travail à réaliser
 
 Le projet sera réalisé individuellement ou en binômes. Les projets réalisés par des groupes de plus de 2 étudiants ne seront pas évalués.
+
 Avant l'échéance, chaque groupe déposera ses livrables sur le serveur [Madoc](http://madoc.univ-nantes.fr/).
+
 Les rapports seront rendus en format PDF, accompagné des ses sources (.tex, .doc, .jpg, etc.). 
+
 Le code source des classes et des tests sera rendu en un fichier archive \texttt{tar.gz}.
 
 L'archive \code{.jar} ainsi que les fichiers intermédiaires de compilation (*.class, etc.) ne doivent pas être rendus avec le code source.
@@ -23,6 +26,10 @@ Le code source de la classe `URI` se trouve sur GitLab de l'Université, sur le 
 Clonez ce projet pour commencer:
 
     git clone https://gitlab.univ-nantes.fr/sunye-g/tp-test-uri.git
+
+Utilisez ensuite Maven pour récupérer les dépendances:
+
+    mvn validate
 
 ## Première étape
 
