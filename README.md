@@ -1,8 +1,11 @@
 # Objectif
 
-L'objectif de ce projet est d'évaluer et d'améliorer la qualité de la classe `URI`, qui fait partie du projet [EMF](https://github.com/eclipse/emf). 
-EMF (Eclipse Modeling Framework) est un cadre de modélisation, une infrastructure de génération de code et des applications basées sur des modèles de données structurées. 
+L'objectif de ce projet est d'évaluer et d'améliorer la qualité de la classe `URI`, qui fait partie du projet [EMF](https://github.com/eclipse/emf).
+
+EMF (Eclipse Modeling Framework) est un cadre de modélisation, une infrastructure de génération de code et des applications basées sur des modèles de données structurées.
+
 Il est développé et maintenu par la fondation Eclipse et est utilisé par différents outils de modélisation, comme Acceleo, ATL ou GMF.
+
 Il est au coeur de la plateforme Eclipse depuis la version 4.
 
 # Travail à réaliser
@@ -16,7 +19,7 @@ L'archive \code{.jar} ainsi que les fichiers intermédiaires de compilation (*.c
 
 # Préparation
 Le code source de la classe `URI` se trouve sur GitLab de l'Université, sur le dépôt suivant:
-[tp-est-uri](https://gitlab.univ-nantes.fr/sunye-g/tp-test-uri). 
+[tp-test-uri](https://gitlab.univ-nantes.fr/sunye-g/tp-test-uri). 
 Clonez ce projet pour commencer:
 
     git clone https://gitlab.univ-nantes.fr/sunye-g/tp-test-uri.git
