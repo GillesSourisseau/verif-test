@@ -61,3 +61,7 @@ Travail à rendre le 12 décembre 2016:
 
 - Le rapport.
 - Le code de la ou des nouvelles classes.
+
+# Références
+
+- La classe URI.java met en œuvre l'appel à commentaires RFC 2396, dont la spécification est disponible ici: [RFC 2396](http://www.ietf.org/rfc/rfc2396.txt)
